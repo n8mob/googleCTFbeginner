@@ -1,0 +1,7 @@
+# -*- mode: gitignore; -*-
+# Emacs stuff
+*~
+\#*\#
+
+# Mac Stuff
+.DS_Store
